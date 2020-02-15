@@ -1,0 +1,17 @@
+{
+  "name": "node-01",
+  "version": "1.0.0",
+  "description": "运行：     node 01-module.js     安装nodemon可以监视文件改动自动重启     npm i -g nodemon",
+  "main": "01-module.js",
+  "dependencies": {
+    "cpu-stat": "^2.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
